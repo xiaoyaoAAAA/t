@@ -2640,20 +2640,25 @@ CCTV高尔夫网球,http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
 
 
 4K高清,#genre#
-4K UHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-爱上4K,http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
-爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-斗鱼4K影院,http://mmitv.top/test/douyu.php?id=9249162
-斗鱼4K影院,http://epg.112114.xyz/douyu/9249162
+CCTV4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+北京4K超清,http://124.64.30.203:5555/rtp/239.3.1.249:8001?$北京联通
+华数4K,http://124.64.30.203:5555/rtp/239.3.1.236:2000?$北京联通
+华数4K,http://171.105.201.164:4022/rtp/239.81.0.123:4056?$广西电信
+华数4K,http://171.39.7.117:18888/rtp/239.81.0.123:4056?$广西电信
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-BesTV 4K 「IPV6」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+百事通4K电影,http://www.17888.fun:10000/udp/239.45.3.107:5140?$上海电信
+百事通4K纪实,http://www.17888.fun:10000/rtp/239.45.1.10:5140?$上海电信
+北京4K超清,http://cn.zzmd.fun:8888/rtp/239.3.1.249:8001$北京联通
+绚影4K,http://wouu.net:9977/udp/239.93.42.33:5140$四川电信
 上海都市,http://218.80.79.205:4022/udp/239.45.3.236:5140
 上海都市,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/1.m3u8
+上海都市,http://222.64.56.17:6666/udp/239.45.3.236:5140$LR•4•IPV4『线路2』
+上海都市,http://116.226.8.253:8881/udp/239.45.3.236:5140$LR•4•IPV4『线路3』
+上海都市,http://218.80.79.205:4022/udp/239.45.3.236:5140$LR•4•IPV4『线路4』
+
 
 地方台,#genre#
 安徽｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/PLTV/1/224/3221230255/1.m3u8
@@ -6766,21 +6771,56 @@ fromis9-HAYOUNG,https://www.goodiptv.club/huya/691259
 陆小凤【蓝光】,https://www.goodiptv.club/huya/28218916
 
 iHOT频道,#genre#
-iHOT爱院线,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱科幻,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱浪漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱喜剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱悬疑,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱赛车,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱奇谈,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱玩具,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱旅行,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱幼教,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱谍战,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱历史,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
-iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+爱院线,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281$LR•4•IPV6『线路1』
+爱院线,http://182.150.185.39:9999/udp/239.93.42.11:5140$LR•4•IPV4『线路2』
+爱院线,http://171.212.170.178:8088/udp/239.93.42.11:5140$LR•4•IPV4『线路3』
+爱院线,http://171.217.5.108:8123/udp/239.93.42.11:5140$LR•4•IPV4『线路4』
+爱科幻,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281$LR•5•IPV6『线路1』
+爱科幻,http://182.150.185.39:9999/udp/239.93.42.10:5140$LR•5•IPV4『线路2』
+爱科幻,http://171.212.170.178:8088/udp/239.93.42.10:5140$LR•5•IPV4『线路3』
+爱科幻,http://171.217.5.108:8123/udp/239.93.42.10:5140$LR•5•IPV4『线路4』
+爱科幻,http://tvbox6.com/tv/dl/dl668/migu.php?3656$LR•5•IPV4『线路5』
+爱浪漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281$LR•2•IPV6『线路1』
+爱浪漫,http://tvbox6.com/tv/dl/dl668/migu.php?3665$LR•2•IPV4『线路2』
+爱喜剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281$LR•5•IPV6『线路1』
+爱喜剧,http://182.150.185.39:9999/udp/239.93.42.9:5140$LR•5•IPV4『线路2』
+爱喜剧,http://171.212.170.178:8088/udp/239.93.42.9:5140$LR•5•IPV4『线路3』
+爱喜剧,http://171.217.5.108:8123/udp/239.93.42.9:5140$LR•5•IPV4『线路4』
+爱喜剧,http://tvbox6.com/tv/dl/dl668/migu.php?3658$LR•5•IPV4『线路5』
+爱悬疑,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281$LR•5•IPV6『线路1』
+爱悬疑,http://182.150.185.39:9999/udp/239.93.42.12:5140$LR•5•IPV4『线路2』
+爱悬疑,http://171.212.170.178:8088/udp/239.93.42.12:5140$LR•5•IPV4『线路3』
+爱悬疑,http://171.217.5.108:8123/udp/239.93.42.12:5140$LR•5•IPV4『线路4』
+爱悬疑,http://tvbox6.com/tv/dl/dl668/migu.php?3650$LR•5•IPV4『线路5』
+爱赛车,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281$LR•4•IPV6『线路1』
+爱赛车,http://182.150.185.39:9999/udp/239.93.42.20:5140$LR•4•IPV4『线路2』
+爱赛车,http://171.212.170.178:8088/udp/239.93.42.20:5140$LR•4•IPV4『线路3』
+爱赛车,http://171.217.5.108:8123/udp/239.93.42.20:5140$LR•4•IPV4『线路4』
+爱奇谈,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281$LR•4•IPV6『线路1』
+爱奇谈,http://182.150.185.39:9999/udp/239.93.42.22:5140$LR•4•IPV4『线路2』
+爱奇谈,http://171.212.170.178:8088/udp/239.93.42.22:5140$LR•4•IPV4『线路3』
+爱奇谈,http://171.217.5.108:8123/udp/239.93.42.22:5140$LR•4•IPV4『线路4』
+爱玩具,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281$LR•4•IPV6『线路1』
+爱玩具,http://182.150.185.39:9999/udp/239.93.42.18:5140$LR•4•IPV4『线路2』
+爱玩具,http://171.212.170.178:8088/udp/239.93.42.18:5140$LR•4•IPV4『线路3』
+爱玩具,http://171.217.5.108:8123/udp/239.93.42.18:5140$LR•4•IPV4『线路4』
+爱旅行,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6
+爱幼教,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281$LR•4•IPV6『线路1』
+爱幼教,http://182.150.185.39:9999/udp/239.93.42.17:5140$LR•4•IPV4『线路2』
+爱幼教,http://171.212.170.178:8088/udp/239.93.42.17:5140$LR•4•IPV4『线路3』
+爱幼教,http://171.217.5.108:8123/udp/239.93.42.17:5140$LR•4•IPV4『线路4』
+爱谍战,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281$LR•5•IPV6『线路1』
+爱谍战,http://182.150.185.39:9999/udp/239.93.42.14:5140$LR•5•IPV4『线路2』
+爱谍战,http://171.212.170.178:8088/udp/239.93.42.14:5140$LR•5•IPV4『线路3』
+爱谍战,http://171.217.5.108:8123/udp/239.93.42.14:5140$LR•5•IPV4『线路4』
+爱谍战,http://tvbox6.com/tv/dl/dl668/migu.php?3691$LR•5•IPV4『线路5』
+爱历史,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281$LR•2•IPV6『线路1』
+爱历史,http://tvbox6.com/tv/dl/dl668/migu.php?3685$LR•2•IPV4『线路2』
+爱科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6
+爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281$LR•4•IPV6『线路1』
+爱动漫,http://182.150.185.39:9999/udp/239.93.42.23:5140$LR•4•IPV4『线路2』
+爱动漫,http://171.212.170.178:8088/udp/239.93.42.23:5140$LR•4•IPV4『线路3』
+爱动漫,http://171.217.5.108:8123/udp/239.93.42.23:5140$LR•4•IPV4『线路4』
 
 NewTv频道,#genre#
 NewTv超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8

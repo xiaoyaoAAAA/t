@@ -2029,26 +2029,8 @@ CCTV高尔夫网球,http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
 
 
 4K高清,#genre#
-CCTV4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-CCTV4K,http://125.89.163.44:8888/udp/239.77.0.174:5146
-CCTV4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
-CCTV4K,http://119.98.133.130:4000/udp/239.69.1.111:10304
-CCTV4K,http://113.13.243.108:6666/udp/239.81.0.69:4056
-CCTV4K,http://113.74.172.147:4000/udp/239.77.0.174:5146
-CCTV4K,http://59.172.145.8:10000/udp/239.69.1.111:10304
-CCTV4K,http://113.100.72.213:8899/udp/239.77.0.194:5146
-CCTV4K,http://119.98.175.25:85/udp/239.69.1.111:10304
-CCTV4K,http://27.24.47.69:5555/udp/239.69.1.111:10304
-CCTV4K,http://113.100.72.213:8899/udp/239.77.0.174:5146
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,http://zmcy.gzcy020.cn:50000/udp/239.77.1.180:5146
-CCTV4K,http://113.74.172.147:4000/udp/239.77.0.194:5146
-CCTV4K,http://125.89.163.44:8888/udp/239.77.0.194:5146
-CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-CCTV4K,http://113.13.243.108:6666/udp/239.81.0.71:4056
-CCTV4K,http://jt.zorua.cn:8787/udp/239.77.1.180:5146
-CCTV4K,http://ddns.cyruslee.top:8888/udp/239.77.0.174:5146
-CCTV4K,http://ddns.cyruslee.top:8888/udp/239.77.0.194:5146
+CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=?$山东移动
+CCTV4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8?$海南移动
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 纯享4K,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/
 纯享4K,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010006/
@@ -2062,6 +2044,8 @@ CCTV4K,http://ddns.cyruslee.top:8888/udp/239.77.0.194:5146
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/main.m3u8
 华数4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 绚影4K,http://wouu.net:9977/udp/239.93.42.33:5140
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 上海都市,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/1.m3u8
 上海都市,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-8.m3u8
@@ -4345,6 +4329,12 @@ CCTV4K,http://ddns.cyruslee.top:8888/udp/239.77.0.194:5146
 
 
 影视频道,#genre#
+CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+CHC动作电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226992/86128817.smil
+CHC影迷电影,rtsp://115.153.245.70/PLTV/88888888/224/3221226990/86128784.smil
+CHC家庭影院,rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt

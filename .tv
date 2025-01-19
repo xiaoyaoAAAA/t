@@ -1950,9 +1950,12 @@ CCTV4K,http://180.102.250.10:8118/rtp/239.49.0.82:8000
 CCTV4K,http://192.168.8.2:35455/gaoma/cctv4k.m3u8
 CCTV4K,http://192.168.8.2:35455/gaoma/cctv4k_10m.m3u8
 CCTV4K,http://222.95.92.12:4000/rtp/239.49.0.82:8000
+CCTV4K,http://4glyt.dynv6.net:35455/gaoma/cctv4k.m3u8
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+纯享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
+华数4K,http://4glyt.dynv6.net:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 华数4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 华数4K,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 绚影4K,http://wouu.net:9977/udp/239.93.42.33:5140

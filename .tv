@@ -2946,7 +2946,9 @@ Fashion 4K,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 铁锅炖鳄鱼,https://vd2.bdstatic.com/mda-mffa8f1tufiwpwtr/hd/cae_h264_nowatermark/1623829700798483965/mda-mffa8f1tufiwpwtr.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655540065-0-0-313bc3b6b4df827ff2f37dbe061d1057&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2665644554&vid=6992502162957399959&abtest=all
 
 影视频道,#genre#
-
+CHC家庭影院,http://ndnas.top:3300/udp/225.1.4.209:1262?$河南联通
+CHC动作电影,http://ndnas.top:3300/udp/225.1.4.208:1261?$河南联通
+CHC影迷电影,http://ndnas.top:3300/udp/225.1.4.207:1260?$河南联通
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
@@ -3161,33 +3163,35 @@ o家o豪o,https://www.goodiptv.club/douyu/4475518
 
 
 iHOT频道,#genre#
-iHOT爱谍战,http://111.119.250.248:50001/TVOD/2000000004000000038/hnbblive/index.m3u8
-iHOT爱科幻,http://111.119.250.248:50001/TVOD/2000000004000000033/hnbblive/index.m3u8
-iHOT爱科学,http://111.119.250.248:50001/TVOD/2000000004000000047/hnbblive/index.m3u8
-iHOT爱浪漫,http://111.119.250.248:50001/TVOD/2000000004000000035/hnbblive/index.m3u8
-iHOT爱历史,http://111.119.250.248:50001/TVOD/2000000004000000046/hnbblive/index.m3u8
-iHOT爱旅行,http://111.119.250.248:50001/TVOD/2000000004000000056/hnbblive/index.m3u8
-iHOT爱奇谈,http://111.119.250.248:50001/TVOD/2000000004000000058/hnbblive/index.m3u8
-iHOT爱赛车,http://111.119.250.248:50001/TVOD/2000000004000000055/hnbblive/index.m3u8
-iHOT爱体育,http://111.119.250.248:50001/TVOD/2000000004000000060/hnbblive/index.m3u8
-iHO爱玩具,http://111.119.250.248:50001/TVOD/2000000004000000053/hnbblive/index.m3u8
-iHOT爱喜剧,http://111.119.250.248:50001/TVOD/2000000004000000032/hnbblive/index.m3u8
-iHOT爱悬疑,http://111.119.250.248:50001/TVOD/2000000004000000036/hnbblive/index.m3u8
-iHOT爱幼教,http://111.119.250.248:50001/TVOD/2000000004000000049/hnbblive/index.m3u8
-iHOT爱院线,http://111.119.250.248:50001/TVOD/2000000004000000034/hnbblive/index.m3u8
-iHOT爱体育,http://34.81.243.214:50001/TVOD/2000000004000000060/hnbblive/index.m3u8
-iHOT爱动漫,http://34.81.243.214:50001/TVOD/2000000004000000059/hnbblive/index.m3u8
-iHOT爱历史,http://34.81.243.214:50001/TVOD/2000000004000000046/hnbblive/index.m3u8
-iHOT爱喜剧,http://34.81.243.214:50001/TVOD/2000000004000000032/hnbblive/index.m3u8
-iHOT爱幼教,http://34.81.243.214:50001/TVOD/2000000004000000049/hnbblive/index.m3u8
-iHOT爱悬疑,http://34.81.243.214:50001/TVOD/2000000004000000036/hnbblive/index.m3u8
-iHOT爱旅行,http://34.81.243.214:50001/TVOD/2000000004000000056/hnbblive/index.m3u8
-iHOT爱浪漫,http://34.81.243.214:50001/TVOD/2000000004000000035/hnbblive/index.m3u8
-iHOT爱科学,http://34.81.243.214:50001/TVOD/2000000004000000047/hnbblive/index.m3u8
-iHOT爱科幻,http://34.81.243.214:50001/TVOD/2000000004000000033/hnbblive/index.m3u8
-iHOT爱谍战,http://34.81.243.214:50001/TVOD/2000000004000000038/hnbblive/index.m3u8
-iHOT爱赛车,http://34.81.243.214:50001/TVOD/2000000004000000055/hnbblive/index.m3u8
-iHOT爱院线,http://34.81.243.214:50001/TVOD/2000000004000000034/hnbblive/index.m3u8
+iHOT爱院线,http://148.135.41.171:25000/6000000006000030630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱院线,http://148.135.41.171:25000/2000000004000000034/hnbblive/index.m3u8$V4『线路2』
+iHOT爱科幻,http://148.135.41.171:25000/6000000006000020630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱科幻,http://148.135.41.171:25000/2000000004000000033/hnbblive/index.m3u8$V4『线路2』
+iHOT爱浪漫,http://148.135.41.171:25000/6000000006000040630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱浪漫,http://148.135.41.171:25000/2000000004000000035/hnbblive/index.m3u8$V4『线路2』
+iHOT爱喜剧,http://148.135.41.171:25000/6000000006000010630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱喜剧,http://148.135.41.171:25000/2000000004000000032/hnbblive/index.m3u8$V4『线路2』
+iHOT爱悬疑,http://148.135.41.171:25000/6000000006000050630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱悬疑,http://148.135.41.171:25000/2000000004000000036/hnbblive/index.m3u8$V4『线路2』
+iHOT爱赛车,http://148.135.41.171:25000/6000000006000240630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱赛车,http://148.135.41.171:25000/2000000004000000055/hnbblive/index.m3u8$V4『线路2』
+iHOT爱奇谈,http://148.135.41.171:25000/6000000006000270630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱奇谈,http://148.135.41.171:25000/2000000004000000058/hnbblive/index.m3u8$V4『线路2』
+iHOT爱玩具,http://148.135.41.171:25000/6000000006000220630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱玩具,http://148.135.41.171:25000/2000000004000000053/hnbblive/index.m3u8$V4『线路2』
+iHOT爱旅行,http://148.135.41.171:25000/6000000006000250630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱旅行,http://148.135.41.171:25000/2000000004000000056/hnbblive/index.m3u8$V4『线路2』
+iHOT爱幼教,http://148.135.41.171:25000/6000000006000180630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱幼教,http://148.135.41.171:25000/2000000004000000049/hnbblive/index.m3u8$V4『线路2』
+iHOT爱谍战,http://148.135.41.171:25000/2000000004000000038/hnbblive/index.m3u8$v4
+iHOT爱历史,http://148.135.41.171:25000/6000000006000150630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱历史,http://148.135.41.171:25000/2000000004000000046/hnbblive/index.m3u8$V4『线路2』
+iHOT爱科学,http://148.135.41.171:25000/6000000006000160630/wasusyt/index.m3u8$V4『线路1』
+iHOT爱科学,http://148.135.41.171:25000/2000000004000000047/hnbblive/index.m3u8$V4『线路2』
+iHOT爱动漫,http://home.wwang.pw:35455/itv/2000000004000000059.m3u8?cdn=hnbblive$V4『线路1』
+iHOT爱动漫,http://148.135.41.171:25000/6000000006000280630/wasusyt/index.m3u8$V4『线路2』
+iHOT爱动漫,http://148.135.41.171:25000/2000000004000000059/hnbblive/index.m3u8$V4『线路3』
+
 
 
 NewTv频道,#genre#
